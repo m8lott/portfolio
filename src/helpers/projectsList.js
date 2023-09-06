@@ -24,7 +24,7 @@ const projects = [
     {title:'React Pizza',
     skills:'ReactTS, JS, CSS',
     img:project05,
-    gitHubLink:'https://m8lott.github.io/ReactTSPizza/'}
+    gitHubLink:'https://github.com/m8lott/ReactTSPizza'}
 ]
 
 export{projects}
