@@ -16,7 +16,7 @@ const projects = [
     {title:'ReactTS Todo',
     skills:'ReactTS, TailwindCSS, TS',
     img:project03,
-    gitHubLink:'https://github.com/m8lott/TodoReactTS'},
+    gitHubLink:'https://github.com/m8lott/TodoList'},
     {title:'Currency converter',
     skills:'React, TailwindCSS',
     img:project04,
