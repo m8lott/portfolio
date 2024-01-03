@@ -30,7 +30,7 @@ const projects = [
     title:'Veronica landing',
     skills:'Gulp, JS, SCSS',
     img:project06,
-    gitHubLink:'https://github.com/m8lott/weatherApp'
+    gitHubLink:'https://github.com/m8lott/veronikaLanding'
     }
 ]
 
