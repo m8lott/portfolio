@@ -3,6 +3,7 @@ import project02 from "./../img/projects/project-2.png"
 import project03 from "./../img/projects/project-3.png"
 import project04 from "./../img/projects/project-4.jpg"
 import project05 from "./../img/projects/project-5.png"
+import project06 from "./../img/projects/project-6.png"
 
 const projects = [
   {title:'Dental clinic',
@@ -24,7 +25,13 @@ const projects = [
     {title:'Weather app',
     skills:'ReactTS, JS, CSS',
     img:project05,
-    gitHubLink:'https://github.com/m8lott/weatherApp'}
+    gitHubLink:'https://github.com/m8lott/weatherApp'},
+    {
+    title:'Veronica landing',
+    skills:'Gulp, JS, SCSS',
+    img:project06,
+    gitHubLink:'https://github.com/m8lott/weatherApp'
+    }
 ]
 
 export{projects}
