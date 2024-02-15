@@ -1,0 +1,34 @@
+.visible-contacts {
+	opacity: 1;
+	transition: all 3s ease;
+}
+.hide-contacts {
+	opacity: 0;
+}
+
+.content-list__item-1 {
+    transition: all 3s ease;
+}
+
+.content-list__item-1-hide {
+    position: relative;
+    transform: translate(-100%);
+}
+
+.content-list__item-2 {
+    transition: all 2s ease;
+}
+
+.content-list__item-2-hide {
+    position: relative;
+    transform: translate(-100%);
+}
+
+.content-list__item-3 {
+    transition: all 1s ease;
+}
+
+.content-list__item-3-hide {
+    position: relative;
+    transform: translate(-100%);
+}
