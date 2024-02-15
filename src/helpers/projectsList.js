@@ -9,28 +9,35 @@ const projects = [
   {title:'Dental clinic',
     skills:'Gulp, JS, SCSS',
     img:project01,
-    gitHubLink:'https://github.com/m8lott/DentalTooth'},
+    gitHubLink:'https://github.com/m8lott/DentalTooth',
+    ghPages: 'https://m8lott.github.io/DentalTooth/'},
     {title:'Happy Coaching',
     skills:'React, JS, SCSS',
     img:project02,
-    gitHubLink:'https://github.com/m8lott/HappyCoaching'},
+    gitHubLink:'https://github.com/m8lott/HappyCoaching',
+    ghPages: 'https://m8lott.github.io/HappyCoaching/'},
     {title:'ReactTS Todo',
-    skills:'ReactTS, TailwindCSS, TS',
+    skills:'ReactTS, TailwindCSS, TS, MobX',
     img:project03,
-    gitHubLink:'https://github.com/m8lott/TodoList'},
+    gitHubLink:'https://github.com/m8lott/TodoList',
+    ghPages: 'https://m8lott.github.io/TodoList/#'},
     {title:'Currency converter',
     skills:'React, TailwindCSS',
     img:project04,
-    gitHubLink:'https://github.com/m8lott/CurrencyConverter/'},
+    gitHubLink:'https://github.com/m8lott/CurrencyConverter/',
+    ghPages: 'https://m8lott.github.io/CurrencyConverter/'
+    },
     {title:'Weather app',
     skills:'ReactTS, JS, CSS',
     img:project05,
-    gitHubLink:'https://github.com/m8lott/weatherApp'},
+    gitHubLink:'https://github.com/m8lott/weatherApp',
+    ghPages: 'https://m8lott.github.io/weatherApp/'},
     {
     title:'Veronica landing',
     skills:'Gulp, JS, SCSS',
     img:project06,
-    gitHubLink:'https://github.com/m8lott/veronikaLanding'
+    gitHubLink:'https://github.com/m8lott/veronikaLanding',
+    ghPages:'https://m8lott.github.io/veronikaLanding/'
     }
 ]
 
