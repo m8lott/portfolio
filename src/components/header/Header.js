@@ -23,8 +23,6 @@ const Header = () => {
            <div className="header__text">
                <p>with passion for learning and creating.</p>
            </div>
-           <a href="https://drive.google.com/file/d/1sDPEVPvbVJVuPPdLD4AXo0rJDadqpLP_/view?usp=sharing"
-            target="_blank" className="btn">Download CV</a>
        </div>
        </div>
    </header>

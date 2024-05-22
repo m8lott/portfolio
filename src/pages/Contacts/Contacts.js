@@ -29,7 +29,7 @@ const Contacts = () => {
                     </li>
                     <li className={!visible ? 'content-list__item-3-hide' : 'content-list__item-3'}>
                         <h2 className="title-2">Email</h2>
-                        <p><a href="mailto:frontdev187@gmail.com">frontdev187@gmail.com</a></p>
+                        <p><a href="mailto:spikedev81@gmail.com">spikedev81@gmail.com</a></p>
                     </li>
                 </ul>
                 </div>
