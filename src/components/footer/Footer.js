@@ -13,7 +13,7 @@ const Footer = () => {
                 <li className="social__item"><a target="_blank" href="https://github.com/m8lott"><img src={gitHub} alt="Link" /></a></li>
             </ul>
             <div className="copyright">
-                <p>© 2023</p>
+                <p>© 2024</p>
             </div>
         </div>
     </div>

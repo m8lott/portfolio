@@ -1,9 +1,9 @@
 import project01 from "./../img/projects/project-1.jpg"
-import project02 from "./../img/projects/project-2.png"
+import project02 from "./../img/projects/project-2.jpg"
 import project03 from "./../img/projects/project-3.png"
 import project04 from "./../img/projects/project-4.jpg"
-import project05 from "./../img/projects/project-5.png"
-import project06 from "./../img/projects/project-6.png"
+import project05 from "./../img/projects/project-5.jpg"
+import project06 from "./../img/projects/project-6.jpg"
 
 const projects = [
   {title:'Dental clinic',
@@ -11,33 +11,33 @@ const projects = [
     img:project01,
     gitHubLink:'https://github.com/m8lott/DentalTooth',
     ghPages: 'https://m8lott.github.io/DentalTooth/'},
-    {title:'Happy Coaching',
-    skills:'React, JS, SCSS',
+    {title:'FitForge',
+    skills:'JS, CSS, Bootstrap',
     img:project02,
-    gitHubLink:'https://github.com/m8lott/HappyCoaching',
-    ghPages: 'https://m8lott.github.io/HappyCoaching/'},
+    gitHubLink:'https://github.com/m8lott/FitForge',
+    ghPages: 'https://m8lott.github.io/FitForge/'},
     {title:'ReactTS Todo',
     skills:'ReactTS, TailwindCSS, TS, MobX',
     img:project03,
     gitHubLink:'https://github.com/m8lott/TodoList',
     ghPages: 'https://m8lott.github.io/TodoList/#'},
-    {title:'Currency converter',
-    skills:'React, TailwindCSS',
+    {title:'PrimeConstruct',
+    skills:'JS, CSS, Bootstrap, SwiperJS',
     img:project04,
-    gitHubLink:'https://github.com/m8lott/CurrencyConverter/',
-    ghPages: 'https://m8lott.github.io/CurrencyConverter/'
+    gitHubLink:'https://github.com/m8lott/PrimeConstruct',
+    ghPages: 'https://m8lott.github.io/PrimeConstruct/'
     },
-    {title:'Weather app',
-    skills:'ReactTS, JS, CSS',
+    {title:'EcoBite',
+    skills:'JS, CSS, Bootstrap',
     img:project05,
-    gitHubLink:'https://github.com/m8lott/weatherApp',
-    ghPages: 'https://m8lott.github.io/weatherApp/'},
+    gitHubLink:'https://github.com/m8lott/ecobite',
+    ghPages: 'https://m8lott.github.io/ecobite/'},
     {
-    title:'Veronica landing',
-    skills:'Gulp, JS, SCSS',
+    title:'Golden Routes',
+    skills:'JS, CSS, Bootstrap, SwiperJS',
     img:project06,
-    gitHubLink:'https://github.com/m8lott/veronikaLanding',
-    ghPages:'https://m8lott.github.io/veronikaLanding/'
+    gitHubLink:'https://github.com/m8lott/goldenroutes',
+    ghPages:'https://m8lott.github.io/goldenroutes/'
     }
 ]
 
