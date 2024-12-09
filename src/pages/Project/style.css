@@ -1,7 +1,15 @@
 .buttons {
-    display: flex;
-    gap: 10px;
-    @media screen and (max-width: 480px) { 
-    flex-direction:column;
-    }
+  display: flex;
+  gap: 10px;
+  @media screen and (max-width: 480px) {
+    flex-direction: column;
+  }
+}
+
+.arrow-back {
+  transition: transform 0.5s ease;
+}
+
+.arrow-back:hover {
+  transform: scale(1.3);
 }

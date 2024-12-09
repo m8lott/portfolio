@@ -1,9 +1,9 @@
 .visible-projects {
-	opacity: 1;
-	transition: all 3s ease;
+  opacity: 1;
+  transition: all 3s ease;
 }
 .hide-projects {
-	opacity: 0;
-    position: relative;
-    transform: translate(-100%);
+  opacity: 0;
+  position: relative;
+  transform: translate(-100%);
 }

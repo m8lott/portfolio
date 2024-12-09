@@ -34,7 +34,7 @@ const Header = () => {
                                             className={`letter`}
                                             style={{
                                                 animationDelay: `${(wordIndex * 0.5) + (index * 0.05)}s`,
-                                                color: letterColor, // Assign the same color to each letter
+                                                color: letterColor, 
                                             }}
                                         >
                                             {letter}
